@@ -10,6 +10,14 @@
         "Assets/Game/Mods/TravelOptionsRu/Textures/TOportsOff.png",
         "Assets/Game/Mods/TravelOptionsRu/Textures/TOcontrolUI.png",
         "Assets/Game/Mods/TravelOptionsRu/Textures/TOportsOn.png",
-        "Assets/Game/Mods/TravelOptionsRu/TravelOptionsModData.csv"
+        "Assets/Game/Mods/TravelOptionsRu/TravelOptionsModData.csv",
+        "Assets/Game/Mods/TravelOptionsRu/TravelOptionsRu.dfmod.json"
+    ],
+    "Dependencies": [
+        {
+            "Name": "traveloptions",
+            "IsOptional": false,
+            "IsPeer": false
+        }
     ]
 }
